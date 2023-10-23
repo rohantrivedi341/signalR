@@ -1,0 +1,1 @@
+D:\Projects\Join8 POS(SignalR)\Sample applications - SignalR\Sample applications - SignalR\HubApp1\HubApp1\HubApp1.Windows\HubApp1.Windows.csproj;neutral
